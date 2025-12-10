@@ -1,11 +1,23 @@
-- 👋 Hi, I’m @hkumar1403
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning React
-- 💞️ I’m looking forward to starting my career as a web developer
-- 📫 How to reach me - hchakravarty666@gmail.com...
+I’m a full-stack development learner and currently an intern, spending my days designing and building real project features — admin panels, UI screens, dashboards, all that fun stuff.
 
+🚀 Tech I’m enjoying right now
 
-<!---
-hkumar1403/hkumar1403 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+1. React
+
+2. Next.js
+
+3. Tailwind CSS
+
+4. Node.js
+
+🛠️ What I do these days
+
+Building UI for real-world projects at my internship
+
+Designing admin panels & website components
+
+Learning how full-stack apps come together piece by piece
+
+🌱 What I’m trying to do
+
+Just a tech enthusiast trying to make cool stuff on the internet and get better every day.
